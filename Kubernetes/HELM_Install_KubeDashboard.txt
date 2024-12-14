@@ -65,7 +65,7 @@ Eg>: https://<k_master_public_ip_address:<NodePort>/
 Change http to https as shown below ::
 13.126.130.57
 
-https://65.2.63.214:31348/
+https://65.2.63.214:31348/      
 
 
-https://3.110.191.175:31730/
+https://3.110.191.175:31730/    
